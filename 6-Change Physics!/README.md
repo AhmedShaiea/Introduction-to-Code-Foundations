@@ -17,7 +17,7 @@ mouseResponseThreshold affects how close the mouse pointer needs to be to affect
 # Community Forums
 
 Here are some helpful links to the top questions asked by coders about this exercise:
-  1. [How can I think like a programmer?](href=https://www.youtube.com/watch?v=rWMuEIcdJP4)
+  1. [How can I think like a programmer?](https://www.youtube.com/watch?v=rWMuEIcdJP4)
   2. [What programming language should I choose?](https://www.youtube.com/watch?v=r5kfkpYtOiw)
   3. [What’s some essential advice for new coders?](https://youtu.be/LwxFVXmVPDU)
 
