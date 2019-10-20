@@ -7,8 +7,7 @@ When you run your code in this exercise, we’ll run some tests to make sure tha
 
 # Instructions
 
-1.
-Change the text between the single quotation marks ('') to your name and click the ‘Run’ button.
+1.Change the text between the single quotation marks ('') to your name and click the ‘Run’ button.
 
 # Community Forums
 
