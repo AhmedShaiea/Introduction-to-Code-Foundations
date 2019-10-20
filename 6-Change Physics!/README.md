@@ -5,9 +5,7 @@ Part of the power of coding is that small changes can create big impacts. Now th
 
 # Instructions
 
-1. Three variables let you experiment with the animation physics: mouseResponseThreshold, friction, and rotationForce.
-
-mouseResponseThreshold affects how close the mouse pointer needs to be to affect the dots that make up the letters. The larger the number, the more powerful the effect of the mouse interaction. Experiment with changing the mouseResponseThreshold to different numbers and running your code!
+1. Three variables let you experiment with the animation physics: mouseResponseThreshold, friction, and rotationForce. mouseResponseThreshold affects how close the mouse pointer needs to be to affect the dots that make up the letters. The larger the number, the more powerful the effect of the mouse interaction. Experiment with changing the mouseResponseThreshold to different numbers and running your code!
 
 2. Try experimenting with the friction value! You’ll probably want to keep friction between 0 and 1.
 
